@@ -1,0 +1,8 @@
+@import '../../../globalStyles/variables';
+
+.navbar__link{
+    color: $textcolor;
+}
+.navbar__link--active{
+    color: $colorred;
+}
